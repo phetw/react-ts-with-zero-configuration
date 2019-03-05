@@ -1,8 +1,8 @@
-### "zero" configuration React + typescript + scss
+## zero configuration React + typescript + scss
 
 This project is a simple react application with zero configuration that utilises "zero" auto configuration.
 
-#### setup
+### setup
 
 1. npm install -g zero
 
