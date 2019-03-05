@@ -4,7 +4,7 @@ import MetaData from './components/MetaData/index'
 import Header from './components/Header/Header'
 import './index.scss'
 
-export default class HelloWorld extends Component<{}, {}> {
+export default class App extends Component<{}, {}> {
     render() {
         return (
             <Fragment>
