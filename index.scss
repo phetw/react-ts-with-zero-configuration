@@ -1,0 +1,15 @@
+@import url('./styles/global.scss');
+@import url('./styles/font.scss');
+
+main{
+    margin: 2rem 0;
+    h4{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    p{
+        margin: 1rem;
+        font-size: 80%;
+    }
+}
